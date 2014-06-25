@@ -1,24 +1,23 @@
-title:            Tobi P.
-description:      Me, code & stuff
-url:              http://tobip.ch
-signoff:          Tobi P.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
-
-links:
-  - name:         Email
-    url:          mailto:tobias.peter@bluewin.ch
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/PixelWizard
-    external:     true
-  - name:         Projects
-    url:          http://projects.tobip.ch
-    external:     true
-pygments:         true
-permalink:        pretty
+# Dependencies
 markdown:         redcarpet
-redcarpet:
-  extensions:
-    - smart
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Tobi P
+tagline:          'My Journal'
+description:      'A simple Blog about Coding, Cubing and Stuff... Made by <a href="https://twitter.com/_tobiaspeter" target="_blank">TDP</a>.'
+url:              localhost:4000
+baseurl:          /
+
+author:
+  name:           'Tobi P.'
+  url:            https://twitter.com/_tobiaspeter
+  
+paginate:         5
+
+#Custom
+
+github:           https://github.com/tobipch
