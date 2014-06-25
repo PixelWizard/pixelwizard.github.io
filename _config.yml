@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Tobi P
 tagline:          'My Journal'
 description:      'A simple Blog about Coding, Cubing and Stuff... Made by <a href="https://twitter.com/_tobiaspeter" target="_blank">TDP</a>.'
-url:              localhost:4000
+url:              tobipch.github.io
 baseurl:          /
 
 author:
