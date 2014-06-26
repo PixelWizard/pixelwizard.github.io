@@ -29,7 +29,7 @@
    Resources
 */
 @font-face {
-    font-family: BebasNeue;
+    font-family: "BebasNeue";
     src:url(../fonts/BebasNeue_Regular.otf);
 }
 
@@ -91,7 +91,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "BebasNeue", serif;
+  font-family: "BebasNeue", sans-serif !important;
   font-size: 4rem;
 }
 
