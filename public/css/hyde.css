@@ -65,11 +65,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background: linear-gradient(bottom,#263b50,#1570dd);
-  background: -o-linear-gradient(bottom,#263b50,#1570dd);
-  background: -ms-linear-gradient(bottom,#263b50,#1570dd);
   background: -moz-linear-gradient(bottom,#263b50,#1570dd);
-  background: -webkit-linear-gradient(bottom,#263b50,#1570dd);
 }
 @media (min-width: 48em) {
   .sidebar {
