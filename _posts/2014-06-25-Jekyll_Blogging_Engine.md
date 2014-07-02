@@ -114,5 +114,3 @@ Thanks for Reading and a nice Day
 *Tobi*
 
 -----
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
